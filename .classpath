@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/Java/Qrcode_A.jar"/>
+	<classpathentry kind="lib" path="E:/Java/poi-4.1.1.jar" sourcepath="C:/Users/Administrator/.m2/repository/org/apache/poi/poi/4.1.1/poi-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Java/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java/1120/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="E:/Java/1120/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="E:/Java/1120/poi-ooxml-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java/1120/poi-ooxml-schemas-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java/1120/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Java/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
